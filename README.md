@@ -38,5 +38,4 @@ write to dev.sandeep@hotmail.com in case of any doubt
 # Final Outcome
 https://ibb.co/09mcF9b
 
-![Click here](https://ibb.co/09mcF9b)
 
