@@ -3,6 +3,7 @@
 # Server 
 Go to server folder, open terminal and run
 > npm install
+
 > npm start
 
 the server should start on localhost:3001
@@ -10,6 +11,7 @@ the server should start on localhost:3001
 # Frontend
 Go to Frontend folder, open terminal and run
 > npm install
+
 > npm start
 
 In case there is a CORS issue install the following plugin
@@ -20,7 +22,9 @@ To runn tests run
 
 
 Requirements:
+
 Node - 10.16.3
+
 React - 16.10.2
 
 Note: 
